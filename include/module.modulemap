@@ -1,0 +1,5 @@
+module oneTBB {
+    umbrella header "tbb/include.h"
+    textual header "oneapi/tbb/detail/_string_resource.h"
+    export *
+}
